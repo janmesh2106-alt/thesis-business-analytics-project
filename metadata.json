@@ -1,0 +1,6 @@
+{
+  "name": "THESIS//OS — Evidence-First Investment Thesis Intelligence",
+  "description": "Institutional investment research workspace that continuously tests company theses against new filings, financial evidence, adversarial countertheses, and audit-trailed change detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
